@@ -58,13 +58,12 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=tahmid-ahnaf&theme=vue-dark&hide_border=true" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width=390 src="https://github-readme-stats-alpha-eight-18.vercel.app/api?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 </div>
 
 <br/><br/>
-
 <hr/>
 
 <br/>
