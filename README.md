@@ -57,7 +57,7 @@
   <img width=390 src="https://github-readme-streak-stats-wp8e.vercel.app/?user=tahmid-ahnaf&theme=vue-dark&hide_border=true" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-gilt-nu.vercel.app/api?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-gilt-nu.vercel.app/api/top-langs/?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-gilt-nu.vercel.app/api/top-langs/?username=tahmid-ahnaf&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&hide=python" alt="top langs" />
 </div>
 
 <br/><br/>
