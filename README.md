@@ -1,4 +1,5 @@
-<img align="right" src="./github-header-image.png" />
+<img align="center" src="./github-header-image.png" />
+<br/>
 
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
